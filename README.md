@@ -27,6 +27,6 @@ const { push } = useRouter();
 
 **5) 아래 스크린샷을 참고하여 앱을 작성한다.**
 
-![스크린샷 2022-10-07 오후 5.16.12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/228f60fa-0d2a-42d6-9c2b-d3f3ec766103/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.16.12.png)
+<img width="658" alt="스크린샷 2022-10-07 오후 5 16 22" src="https://user-images.githubusercontent.com/22545843/194748973-28c4d730-6ce5-4fbc-a2f4-fc033ca6c357.png">
+<img width="660" alt="스크린샷 2022-10-07 오후 5 16 12" src="https://user-images.githubusercontent.com/22545843/194748977-ea7d7a3a-8cf3-4c80-b61d-b7987408a102.png">
 
-![스크린샷 2022-10-07 오후 5.16.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f92ea89-cdaa-4512-9f66-476a3660a035/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.16.22.png)
