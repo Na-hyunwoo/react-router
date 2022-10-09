@@ -1,7 +1,8 @@
 React와 History API를 사용하여 SPA Router기능 구현하기
-1) 해당 주소로 진입했을 때 아래 주소에 맞는 페이지가 렌더링 되어야 한다. 
+**1) 해당 주소로 진입했을 때 아래 주소에 맞는 페이지가 렌더링 되어야 한다. **
 - `/` → `root` 페이지
 - `/about` → `about` 페이지
+
 **2) 버튼을 클릭하면 해당 페이지로, 뒤로 가기 버튼을 눌렀을 때 이전 페이지로 이동해야 한다.**
 
 - 힌트) `window.onpopstate`, `window.location.pathname` History API(`pushState`)
