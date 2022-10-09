@@ -1,5 +1,3 @@
-#React와 History API를 사용하여 SPA Router 기능 구현하기
-
 React와 History API를 사용하여 SPA Router기능 구현하기
 1) 해당 주소로 진입했을 때 아래 주소에 맞는 페이지가 렌더링 되어야 한다. 
 - `/` → `root` 페이지
