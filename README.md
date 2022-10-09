@@ -25,6 +25,6 @@ const { push } = useRouter();
 
 **5) 아래 스크린샷을 참고하여 앱을 작성한다.**
 
-<img width="658" alt="스크린샷 2022-10-07 오후 5 16 22" src="https://user-images.githubusercontent.com/22545843/194748973-28c4d730-6ce5-4fbc-a2f4-fc033ca6c357.png">
 <img width="660" alt="스크린샷 2022-10-07 오후 5 16 12" src="https://user-images.githubusercontent.com/22545843/194748977-ea7d7a3a-8cf3-4c80-b61d-b7987408a102.png">
+<img width="658" alt="스크린샷 2022-10-07 오후 5 16 22" src="https://user-images.githubusercontent.com/22545843/194748973-28c4d730-6ce5-4fbc-a2f4-fc033ca6c357.png">
 
