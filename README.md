@@ -30,3 +30,5 @@ const { push } = useRouter();
 <img width="660" alt="스크린샷 2022-10-07 오후 5 16 12" src="https://user-images.githubusercontent.com/22545843/194748977-ea7d7a3a-8cf3-4c80-b61d-b7987408a102.png">
 <img width="658" alt="스크린샷 2022-10-07 오후 5 16 22" src="https://user-images.githubusercontent.com/22545843/194748973-28c4d730-6ce5-4fbc-a2f4-fc033ca6c357.png">
 
+기록
+http://localhost:3000/blog/React%EC%99%80%20History%20API%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20SPA%20Router%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84
